@@ -9,18 +9,17 @@
 
 ## Completed Tasks
 
-- Personal Introduction
-- Student ID Card
-- [x] Rectangle Workshop
-- [x] Temperature Station
-- [x] Shopping Receipt
-- [x] Employee Payslip
-- [x] Travel Planner
-- [x] Exam Result Report
-- [x] Currency Exchange
-- [x] BMI
-- [x] Student Profile System
-
+- [x] Personal Introduction
+- [x] Student ID Card
+- [ ] Rectangle Workshop
+- [ ] Temperature Station
+- [ ] Shopping Receipt
+- [ ] Employee Payslip
+- [ ] Travel Planner
+- [ ] Exam Result Report
+- [ ] Currency Exchange
+- [ ] BMI
+- [ ] Student Profile System
 ## What I Learned
 
 ### Task 1 — Personal Introduction
