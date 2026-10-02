@@ -8,7 +8,7 @@ goal = input("Enter your Programming Goal: ")
 
 print("===================================")
 print("       STUDENT INTRODUCTION        ")
-print("=================================\n")
+print("===================================\n")
 print(f"My name is {full_name}.")
 print(f"I am {age} years old.")
 print(f"I live in {city}.")
