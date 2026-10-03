@@ -39,5 +39,6 @@ Here I practiced converting user input into numbers using `float()`. I used the 
 ### Task 5 — Shopping Receipt
 This task helped me connect several concepts together. I worked with product names, prices, and quantities, then used arithmetic to calculate the total cost and display a simple receipt.
 
+### Task 6: Employee Payslip
 
-
+In this task, I practiced working with different salary values and using arithmetic to calculate the gross salary. I learned how multiple variables can be combined in one calculation and then displayed clearly for the user.
