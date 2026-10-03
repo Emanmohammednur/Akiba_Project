@@ -35,3 +35,9 @@ This task helped me understand how arithmetic operators can be used in a real pr
 
 ### Task 4 — Temperature Station
 Here I practiced converting user input into numbers using `float()`. I used the Celsius-to-Fahrenheit formula and learned how Python can be used to perform calculations with values entered by the user.
+
+### Task 5 — Shopping Receipt
+This task helped me connect several concepts together. I worked with product names, prices, and quantities, then used arithmetic to calculate the total cost and display a simple receipt.
+
+
+
