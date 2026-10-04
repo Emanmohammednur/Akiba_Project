@@ -17,8 +17,8 @@
 - [x] Employee Payslip
 - [x] Travel Planner
 - [x] Exam Result Report
-- [ ] Currency Exchange
-- [ ] BMI
+- [x] Currency Exchange
+- [x] BMI
 - [ ] Student Profile System
 ## What I Learned
 
@@ -55,3 +55,7 @@ In this task, I practiced collecting multiple scores from the user and calculati
 ### Task 9: Currency Exchange Desk
 
 In this task, I practiced using variables and arithmetic to convert an amount from USD to ETB. I also learned how to store the exchange rate in a variable instead of repeating the same value in the program. For the bonus, I allowed the user to enter the exchange rate.
+
+### Task 10: BMI Health Information
+
+In this task, I practiced working with numerical input and using a formula to calculate BMI. I used weight and height to calculate the result and practiced formatting the numbers when displaying the final BMI.
