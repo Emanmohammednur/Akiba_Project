@@ -47,15 +47,15 @@ In this task, I practiced working with different salary values and using arithme
 
 In this task, I practiced working with distance, speed, and time. I used the distance and average speed entered by the user to calculate the estimated travel time. This helped me understand how to use a formula in Python and work with decimal values.
 
-### Task 8: Exam Result Report
+### Task 8 — Exam Result Report
 
 In this task, I practiced collecting multiple scores from the user and calculating their average. I learned how to use several variables in one calculation and how to display the result clearly.
 
 
-### Task 9: Currency Exchange Desk
+### Task 9 — Currency Exchange Desk
 
 In this task, I practiced using variables and arithmetic to convert an amount from USD to ETB. I also learned how to store the exchange rate in a variable instead of repeating the same value in the program. For the bonus, I allowed the user to enter the exchange rate.
 
-### Task 10: BMI Health Information
+### Task 10 — BMI Health Information
 
 In this task, I practiced working with numerical input and using a formula to calculate BMI. I used weight and height to calculate the result and practiced formatting the numbers when displaying the final BMI.
