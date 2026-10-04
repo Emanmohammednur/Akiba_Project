@@ -16,7 +16,7 @@
 - [x] Shopping Receipt
 - [x] Employee Payslip
 - [x] Travel Planner
-- [ ] Exam Result Report
+- [x] Exam Result Report
 - [ ] Currency Exchange
 - [ ] BMI
 - [ ] Student Profile System
@@ -46,3 +46,7 @@ In this task, I practiced working with different salary values and using arithme
 ### Task 7 — Travel Planner
 
 In this task, I practiced working with distance, speed, and time. I used the distance and average speed entered by the user to calculate the estimated travel time. This helped me understand how to use a formula in Python and work with decimal values.
+
+### Task 8: Exam Result Report
+
+In this task, I practiced collecting multiple scores from the user and calculating their average. I learned how to use several variables in one calculation and how to display the result clearly.
