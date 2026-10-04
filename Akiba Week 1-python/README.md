@@ -50,3 +50,8 @@ In this task, I practiced working with distance, speed, and time. I used the dis
 ### Task 8: Exam Result Report
 
 In this task, I practiced collecting multiple scores from the user and calculating their average. I learned how to use several variables in one calculation and how to display the result clearly.
+
+
+### Task 9: Currency Exchange Desk
+
+In this task, I practiced using variables and arithmetic to convert an amount from USD to ETB. I also learned how to store the exchange rate in a variable instead of repeating the same value in the program. For the bonus, I allowed the user to enter the exchange rate.
