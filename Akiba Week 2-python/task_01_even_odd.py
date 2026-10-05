@@ -1,6 +1,6 @@
 number = int(input("Enter Number: "))
 
 if number % 2 == 0:
-    print("The Number is Even")
+    print(f"The number {number} is even.")
 else:
-    print("The Number is Odd")
+    print(f"The number {number} is odd.")
