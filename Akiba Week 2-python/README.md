@@ -17,15 +17,15 @@
 
 ## Completed Tasks
 - [x] Even or Odd
-- [] Largest of Three
-- [] Prime Number Checker
-- [] Palindrome Checker
-- [] Sum of Digits
-- [] FizzBuzz
-- [] Number Guessing Game
-- [] Count Numbers
-- [] ATM PIN System
-- [] Number Analyzer
+- [ ] Largest of Three
+- [ ] Prime Number Checker
+- [ ] Palindrome Checker
+- [ ] Sum of Digits
+- [ ] FizzBuzz
+- [ ] Number Guessing Game
+- [ ] Count Numbers
+- [ ] ATM PIN System
+- [ ] Number Analyzer
 
 ## How to Run
 
