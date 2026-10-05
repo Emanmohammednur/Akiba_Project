@@ -60,6 +60,6 @@ In this task, I practiced using variables and arithmetic to convert an amount fr
 
 In this task, I practiced working with numerical input and using a formula to calculate BMI. I used weight and height to calculate the result and practiced formatting the numbers when displaying the final BMI.
 
-### Mini Project: Student Profile System
+### Mini Project — Student Profile System
 
 For the mini project, I brought together what I learned throughout Week 1 to build a simple student profile system. I practiced collecting different types of information using `input()`, storing them in variables, and displaying the profile in a clean format. This project helped me put the basic Python concepts from the previous tasks together in one program.
