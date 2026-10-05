@@ -35,7 +35,7 @@ Each task is saved as a separate Python file, so I can run and test the programs
 
 To run a task, enter the following command in the terminal:
 
-python task_01_even_odd.py
+**`python task_01_even_odd.py`**
 
 The program will start and ask for the required input. After entering a value, the result will be displayed in the terminal.
 
