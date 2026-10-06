@@ -17,7 +17,7 @@
 
 ## Completed Tasks
 - [x] Even or Odd
-- [ ] Largest of Three
+- [x] Largest of Three
 - [ ] Prime Number Checker
 - [ ] Palindrome Checker
 - [ ] Sum of Digits
@@ -40,3 +40,4 @@ To run a task, enter the following command in the terminal:
 The program will start and ask for the required input. After entering a value, the result will be displayed in the terminal.
 
 The same process can be used for the other tasks:
+**`python task_02_filename.py`**
