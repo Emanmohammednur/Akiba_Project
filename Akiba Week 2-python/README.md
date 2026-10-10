@@ -18,7 +18,7 @@
 ## Completed Tasks
 - [x] Even or Odd
 - [x] Largest of Three
-- [ ] Prime Number Checker
+- [x] Prime Number Checker
 - [ ] Palindrome Checker
 - [ ] Sum of Digits
 - [ ] FizzBuzz
@@ -41,3 +41,4 @@ The program will start and ask for the required input. After entering a value, t
 
 The same process can be used for the other tasks:
 **`python task_02_filename.py`**
+**`python task_03_prime_checker.py`**
