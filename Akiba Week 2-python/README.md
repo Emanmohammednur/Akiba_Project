@@ -20,7 +20,7 @@
 - [x] Largest of Three
 - [x] Prime Number Checker
 - [x] Palindrome Checker
-- [ ] Sum of Digits
+- [x] Sum of Digits
 - [ ] FizzBuzz
 - [ ] Number Guessing Game
 - [ ] Count Numbers
@@ -40,10 +40,12 @@ To run a task, enter the following command in the terminal:
 The program will start and ask for the required input. After entering a value, the result will be displayed in the terminal.
 
 The same process can be used for the other tasks:
+
 **`python task_02_filename.py`**
 
 **`python task_03_prime_checker.py`**
 
 **`python task_04_palindrome.py`**
 
+**`python task_05_sum_digits.py`**
 
