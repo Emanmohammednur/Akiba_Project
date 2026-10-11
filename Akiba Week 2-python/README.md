@@ -24,8 +24,8 @@
 - [x] FizzBuzz
 - [x] Number Guessing Game
 - [x] Count Numbers
-- [ ] ATM PIN System
-- [ ] Number Analyzer
+- [x] ATM PIN System
+- [x] Number Analyzer
 
 ## How to Run
 
@@ -54,3 +54,7 @@ The same process can be used for the other tasks:
 **`python task_07_guessing_game.py`**
 
 **`python task_08_count_numbers.py`**
+
+**`python task_09_atm_pin.py`**
+
+**`python task_10_number_analyzer.py`**
