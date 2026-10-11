@@ -19,7 +19,7 @@
 - [x] Even or Odd
 - [x] Largest of Three
 - [x] Prime Number Checker
-- [ ] Palindrome Checker
+- [x] Palindrome Checker
 - [ ] Sum of Digits
 - [ ] FizzBuzz
 - [ ] Number Guessing Game
@@ -41,4 +41,9 @@ The program will start and ask for the required input. After entering a value, t
 
 The same process can be used for the other tasks:
 **`python task_02_filename.py`**
+
 **`python task_03_prime_checker.py`**
+
+**`python task_04_palindrome.py`**
+
+
