@@ -21,9 +21,9 @@
 - [x] Prime Number Checker
 - [x] Palindrome Checker
 - [x] Sum of Digits
-- [ ] FizzBuzz
-- [ ] Number Guessing Game
-- [ ] Count Numbers
+- [x] FizzBuzz
+- [x] Number Guessing Game
+- [x] Count Numbers
 - [ ] ATM PIN System
 - [ ] Number Analyzer
 
@@ -49,3 +49,8 @@ The same process can be used for the other tasks:
 
 **`python task_05_sum_digits.py`**
 
+**`python task_06_fizzbuzz.py`**
+
+**`python task_07_guessing_game.py`**
+
+**`python task_08_count_numbers.py`**
