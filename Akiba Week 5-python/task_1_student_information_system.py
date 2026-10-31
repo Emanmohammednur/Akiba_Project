@@ -1,9 +1,3 @@
-# Create a Student class with the following requirements:
-# Define attributes: name, age, and department.
-# Use __init__() to initialize the attributes.
-# Create a display_info() method to display the student's information.
-# Create three student objects with different information.
-# Display the information of all three students.
 class Student:
     def __init__(self, name,age,department):
         self.name = name
