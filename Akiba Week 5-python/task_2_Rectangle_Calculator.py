@@ -14,6 +14,7 @@ rectangle2 = Rectangle(4,8)
 
 print(rectangle1.area())
 print(rectangle1.perimeter())
+print("-" * 20)
 
 print(rectangle2.area())
 print(rectangle2.perimeter())
