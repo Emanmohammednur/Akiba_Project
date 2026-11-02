@@ -5,9 +5,10 @@ class Student:
         self.department = department
 
     def display_info(self):
-        print(self.name)
-        print(self.age)
-        print(self.department)
+        print("Name: ",self.name)
+        print("Age: ",self.age)
+        print("Department: ",self.department)
+        print("-" * 30)
 
 student1  = Student("Sara", 20, "IT")
 student2  = Student("Hanah", 22, "Computer Science")
