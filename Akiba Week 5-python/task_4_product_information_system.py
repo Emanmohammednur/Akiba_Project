@@ -30,3 +30,4 @@ print("Total:",product3.total_value())
 # Question: What is the purpose of the __str__() method?
 
 # __str__() is a special method that returns a human-readable string representation of an object.It determines what is displayed when we use print(object).
+
