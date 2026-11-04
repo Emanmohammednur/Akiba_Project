@@ -4,12 +4,12 @@ class Student:
         self.student_id = student_id
         self.department = department
 
+
     def display_info(self):
         print(f"Name: {self.name}")
         print(f"Student ID: {self.student_id}")
         print(f"Department: {self.department}")
         print("-" * 30)
-
 
 
     def introduce(self):
@@ -18,14 +18,13 @@ class Student:
             f"My student ID is {self.student_id}, "
             f"and I study {self.department}."
             )
-
         print("-" * 30)
-
 
 
 student1 = Student("Sara","AK01","IT")
 student2 = Student("Ali","AK02","Computer Science")
 student3 = Student("Liza","AK03","Software Engineering")
+
 
 student1.display_info()
 student1.introduce()
