@@ -113,7 +113,6 @@ def low_stock_report(threshold=5):
             )
 
 
-
 add_product("Laptop", 50000, 10)
 add_product("Mouse", 500, 3)
 add_product("Keyboard", 1500, 8)
